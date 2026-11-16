@@ -1,7 +1,7 @@
 # Models Accept False Premises More Than Unknowable Futures: Abstention Gaps by Question Type, and a One-Line Fix[^1]
 
-**Author name 1**, Affiliation  
-**Author name 2**, Affiliation (replace with real names; delete unused lines)  
+**Hồ Lê Minh Thạch**, [affiliation]  
+**Bùi Minh Nhật**, [affiliation]  
 **With** Apart Research
 
 ## Abstract
